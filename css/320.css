@@ -73,6 +73,14 @@ h2 {
   position: relative;
   border-radius: 150px;
 }
+
+  .behance:hover, .instagram:hover, .whatsapp:hover, .facebook:hover, .web:hover {
+    background-color: #590e94;
+    ransition-property: opacity;
+    transition-duration: 0.5s;
+   }
+
+
 .img_behance img , .img_instagram img , .img_whatsapp img  {
   width: 90px;
   height: auto;
